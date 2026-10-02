@@ -1,0 +1,22 @@
+# Build output
+raytracer
+*.o
+*.d
+*.a
+*.so
+*.dylib
+build/
+cmake-build-*/
+
+# Render output (raw PPM files are large; commit PNG previews only)
+*.ppm
+
+# Debug
+vgcore.*
+.gdb_history
+coding-style-reports.log
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
