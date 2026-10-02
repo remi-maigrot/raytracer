@@ -6,11 +6,7 @@ A CPU ray tracer written in modern C++ that renders 3D scenes described in a con
 
 ## About
 
-Epitech team project (2023, second year). Ray tracing generates images by casting a ray from the camera through each pixel and simulating how it interacts with the objects and lights of the scene. The goal was to build an extensible renderer in object-oriented C++, with scenes loaded from a `libconfig` file and new primitives easy to plug in through interfaces and design patterns.
-
-## My role
-
-[À COMPLÉTER PAR RÉMI]
+Built in 2023. Ray tracing generates images by casting a ray from the camera through each pixel and simulating how it interacts with the objects and lights of the scene. The goal was to build an extensible renderer in object-oriented C++, with scenes loaded from a `libconfig` file and new primitives easy to plug in through interfaces and design patterns.
 
 ## Features
 
